@@ -1,0 +1,70 @@
+06:40:06.851 MobileTrans-Wutsapper[ (SplashActivity.kt:46)#invoke ] sku=whatsapp_annual_subscription
+06:40:13.926 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:51)#init ] init sdk code is 0
+06:40:13.935 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:68)#collectBaseInfo ] base_info  pver--2.0.8.150--tzone---6--ip--192.168.101.175--lang--en--os_name--google--os_ver--12--os_bit--0--os_lang--en--install_time--0
+06:40:13.936 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:75)#collectBaseInfo ] base_info code is 0
+06:40:13.936 MobileTrans-GuideActivity[ (GuideActivity.kt:135)#initSparrow ] next:Sparrow init success 
+06:40:13.938 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:170)#collectEvent ] data_event code is 0--type--Launch--action--App_Open--label--Returen_User
+06:40:13.941 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Click_Start--action--Enter_Select_Phone_Page--properties--{}
+06:40:13.944 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Android_Identity--action--Android_Permission_Done--properties--{"Android_Device_Model":"Pixel 6","Android_Device_System_Version":"12","Android_Device_Capacity":"110.27 GB","Android_Device_Remaining_Capacity":"61.81 GB","Android_Device_Language":"en"}
+06:40:13.945 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_MT_Start--action--Start--label--
+06:40:13.946 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--MT_Version--label--2.0.8.150
+06:40:13.949 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevBrand--label--google
+06:40:13.951 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevModel--label--Pixel 6
+06:40:13.952 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevVersion--label--12
+06:40:13.954 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevCountry--label--us
+06:40:13.959 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevLanguage--label--en
+06:40:13.963 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevCapacity--label--64G-128G
+06:40:13.965 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Android_Device_Info--action--DevCapacity_Remaining--label--32-64G
+06:40:13.967 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Home_Behavior--action--Home_Process--label--App_Open
+06:40:13.979 MobileTrans-fetchPermission[ (GuideActivity.kt:206)#onGranted ] onGranted: 获取存储权限成功
+06:40:14.017 MobileTrans-TAGTRANS_TRANSFER_TEST[ (TransferStartHelp.java:182)#resetTransferAgainState ]  resetTransferAgainState
+06:40:14.019 MobileTrans-TAGTRANS_TRANSFER_TEST[ (TransferProgressHelp.java:69)#resetProgress ]  resetProgress
+06:40:14.020 MobileTrans-TAGTRANS_CONNECT_TEST[ (TransferManager.kt:52)#onTransferPrepare ] onTransferPrepare reset isCancel=false
+06:40:14.079 MobileTrans[ (ContactManager.java:229)#getContactList ] dataCount =1773  rawContacts = 432
+06:40:14.092 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = Contact  74
+06:40:14.213 MobileTrans-TAGTRANS_CONNECT_TEST[ (TransferManager.kt:30)#onReset ] onReset
+06:40:14.223 MobileTrans[ (WifiP2pHelp.kt:91)#removeGroup ] removeGroup
+06:40:14.227 MobileTrans-TAGTRANS_TRANSFER_TEST[ (SocketServerManager.java:111)#disConnect ]  stopSocketServer
+06:40:14.443 MobileTrans[ (WifiP2pHelp.kt:98)#onFailure ] removeGroup onFailure
+06:40:14.670 MobileTrans[ (DataCollect.java:96)#getAllDataReal ] error file empty path  = /storage/emulated/0/Pictures/Facebook/FB_IMG_1640502178457.jpg
+06:40:14.792 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = Image  697
+06:40:14.847 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = Video  52
+06:40:14.921 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = Document  71
+06:40:15.048 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = Audio  123
+06:40:15.329 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = App  277
+06:40:15.447 MobileTrans[ (DataCollect.java:105)#getAllDataReal ] time consumer = Calendar  116
+06:40:15.448 MobileTrans-DataCollect[ (DataCollect.java:65)#prepare ] data scan finish.
+06:40:16.569 MobileTrans-api_test[ (TransMainActivity.kt:129)#onResponse ] refresh: register--zfmdc23v4joxlk07hrn1a6wu8i9gbqts
+06:40:17.179 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  install_time = 2022-01-01 12:40:13.908
+06:40:17.180 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+06:40:17.182 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+06:40:17.184 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = true
+06:40:19.155 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Click_Connection--action--Click_iCloud--properties--{}
+06:40:24.851 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Click_Connection--action--Click_QRcode--properties--{}
+06:40:40.723 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Home_Public--action--Click_Home_Record--properties--{"Record":""}
+06:40:40.726 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Home_Public--action--Click_Home_Menu--properties--{}
+06:40:44.068 MobileTrans-TAGTRANS_CONNECT_TEST[ (TransferManager.kt:30)#onReset ] onReset
+06:40:44.072 MobileTrans[ (WifiP2pHelp.kt:91)#removeGroup ] removeGroup
+06:40:44.073 MobileTrans-TAGTRANS_TRANSFER_TEST[ (SocketServerManager.java:111)#disConnect ]  stopSocketServer
+06:40:44.092 MobileTrans[ (WifiP2pHelp.kt:98)#onFailure ] removeGroup onFailure
+06:40:46.512 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Click_Connection--action--Click_iCloud--properties--{}
+06:40:49.019 MobileTrans-TAGTRANS_CONNECT_TEST[ (TransferManager.kt:30)#onReset ] onReset
+06:40:49.025 MobileTrans[ (WifiP2pHelp.kt:91)#removeGroup ] removeGroup
+06:40:49.027 MobileTrans-TAGTRANS_TRANSFER_TEST[ (SocketServerManager.java:111)#disConnect ]  stopSocketServer
+06:40:49.041 MobileTrans[ (WifiP2pHelp.kt:98)#onFailure ] removeGroup onFailure
+06:40:54.444 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Home_Public--action--Click_Home_About--properties--{"About":""}
+06:40:54.446 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Home_Public--action--Click_Home_Menu--properties--{}
+06:40:54.447 MobileTrans-Google_Analytics[ (BaseActivity.kt:94)#sendEvent ] sendEvent: category--Home_Behavior--action--Click_About--label--
+06:41:47.310 MobileTrans-TAGTRANS_CONNECT_TEST[ (TransferManager.kt:30)#onReset ] onReset
+06:41:47.314 MobileTrans[ (WifiP2pHelp.kt:91)#removeGroup ] removeGroup
+06:41:47.315 MobileTrans-TAGTRANS_TRANSFER_TEST[ (SocketServerManager.java:111)#disConnect ]  stopSocketServer
+06:41:47.331 MobileTrans[ (WifiP2pHelp.kt:98)#onFailure ] removeGroup onFailure
+06:41:56.867 MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:100)#collectExperience ] data_experience: code is 0--type--Click_Connection--action--Click_QRcode--properties--{}
+06:42:20.058 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  install_time = 2022-01-01 12:40:13.908
+06:42:20.059 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+06:42:20.060 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+06:42:20.061 MobileTrans[ (MainApplication.kt:240)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = false
+06:42:22.384 MobileTrans-TAGTRANS_CONNECT_TEST[ (TransferManager.kt:30)#onReset ] onReset
+06:42:22.387 MobileTrans[ (WifiP2pHelp.kt:91)#removeGroup ] removeGroup
+06:42:22.389 MobileTrans-TAGTRANS_TRANSFER_TEST[ (SocketServerManager.java:111)#disConnect ]  stopSocketServer
+06:42:22.406 MobileTrans[ (WifiP2pHelp.kt:98)#onFailure ] removeGroup onFailure
